@@ -167,6 +167,10 @@ Contains sample task descriptions. Edit if you want, I don't care.
 ## Submission Details
 Fill out and submit the form [Submission Form](https://forms.gle/m6F1Gg5bcg2xn1HJA)
 
+## Resources
+https://www.purestorage.com/uk/knowledge/what-is-mongodb.html
+https://blog.postman.com/how-to-build-an-api/ 
+
 ## Large Language Model Usage Policy
 
 We acknowledge the transformative potential of Large Language Models (LLM) in generating code; however, we are still in the nascent stages of understanding how to embed LLMs in developer workflows to write code more efficiently while maintaining quality. Therefore, we will not be teaching students directly how to use LLMs to develop web applications.
